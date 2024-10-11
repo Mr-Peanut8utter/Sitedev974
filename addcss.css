@@ -1,0 +1,18 @@
+img {
+    height: auto;
+    max-height: 300px; 
+}
+
+.w3-row {
+    margin: 20px 0; 
+}
+
+.w3-amber {
+    background-color: rgba(255, 191, 0, 0.9); 
+}
+
+@media screen and (max-width: 600px) {
+    .w3-half {
+        width: 100%; 
+    }
+}
